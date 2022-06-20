@@ -3,9 +3,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MSRehmanCodes](https://github.com/MSRehmanCodes)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **ReactJS, Redux**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
